@@ -1,5 +1,5 @@
 # publications
-PDF of publications
+
 Includes pdf documents for publications
 
 References for those publications:
@@ -25,3 +25,7 @@ Pelletier, J., Gelinas, N., & Skutsch, M. (2016). The Place of Community Forest 
 Pelletier, J., Siampale, A., Legendre, P., Jantz, P., Laporte, N., & Goetz, S. J. (2017). Human and natural controls of the variation in aboveground tree biomass in African dry tropical forests. Ecological Applications. doi:10.1002/eap.1550
 
 Pelletier, J., Horning, N., Laporte, N., Samndong, R. A., & Goetz, S. (2018). Anticipating social equity impacts in REDD+ policy design: An example from the Democratic Republic of Congo. Land Use Policy, 75, 102-115. doi:https://doi.org/10.1016/j.landusepol.2018.03.011
+
+Pelletier, J. , Paquette, A., Mbindo, K., Zimba, N., Siampale, A., Chendauka, B., Siangulube, F., Roberts, J.W. 2018. Carbon sink despite large deforestation in African tropical dry forests (miombo woodlands). Environmental Research Letters, 14, 094017. doi: https://doi.org/10.1088/1748-9326/aadc9a
+
+
