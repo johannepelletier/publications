@@ -28,4 +28,6 @@ Pelletier, J., Horning, N., Laporte, N., Samndong, R. A., & Goetz, S. (2018). An
 
 Pelletier, J. , Paquette, A., Mbindo, K., Zimba, N., Siampale, A., Chendauka, B., Siangulube, F., Roberts, J.W. 2018. Carbon sink despite large deforestation in African tropical dry forests (miombo woodlands). Environmental Research Letters, 14, 094017. doi: https://doi.org/10.1088/1748-9326/aadc9a
 
+Pelletier, J., Gélinas, N., Potvin, C. 2019. Indigenous perspective to inform rights-based conservation in a protected area of Panama. Land Use Policy 83: 297-307.
+
 
