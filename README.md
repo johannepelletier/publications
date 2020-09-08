@@ -30,4 +30,6 @@ Pelletier, J. , Paquette, A., Mbindo, K., Zimba, N., Siampale, A., Chendauka, B.
 
 Pelletier, J., Gélinas, N., Potvin, C. 2019. Indigenous perspective to inform rights-based conservation in a protected area of Panama. Land Use Policy 83: 297-307.
 
+Pelletier, J., Ngoma, H., Mason, N.M. and Barrett, C.B., 2020. Does smallholder maize intensification reduce deforestation? Evidence from Zambia. Global Environmental Change, 63, p.102127.
+
 
